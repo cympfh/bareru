@@ -1,0 +1,12 @@
+[book]
+authors = ["cympfh"]
+language = "ja"
+multilingual = false
+src = "src"
+title = "Bareru"
+
+[output.html]
+mathjax-support = true
+
+[build]
+build-dir = "./docs"
