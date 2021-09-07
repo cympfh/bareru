@@ -3,7 +3,7 @@ authors = ["cympfh"]
 language = "ja"
 multilingual = false
 src = "src"
-title = "Bareru Stories"
+title = "Rakonto"
 
 [output.html]
 mathjax-support = true
